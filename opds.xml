@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<id>urn:my-library</id>
+<title>My Library</title>
+<updated>2026-11-10T09:00:00Z</updated>
+<author><name>Me</name></author>
+<entry>
+<title>George GK</title>
+<id>urn:book:george-gk</id>
+<updated>2026-11-10T09:00:00Z</updated>
+<author><name>Unknown</name></author>
+<link rel="http://opds-spec.org/acquisition" href="https://github.com/shajedulislam726-ai/Library/releases/download/Book/George.GK.pdf" type="application/pdf"/>
+</entry>
+<entry>
+<title>George's MP3 GK International</title>
+<id>urn:book:george-mp3-gk-international</id>
+<updated>2026-11-10T09:00:00Z</updated>
+<author><name>Unknown</name></author>
+<link rel="http://opds-spec.org/acquisition" href="https://github.com/shajedulislam726-ai/Library/releases/download/Book/George.s.MP3.GK.International.-boimate.com-.pdf" type="application/pdf"/>
+</entry>
+<entry>
+<title>Jubayer's GK</title>
+<id>urn:book:jubayers-gk</id>
+<updated>2026-11-10T09:00:00Z</updated>
+<author><name>Unknown</name></author>
+<link rel="http://opds-spec.org/acquisition" href="https://github.com/shajedulislam726-ai/Library/releases/download/Book/jubayers_gk.pdf" type="application/pdf"/>
+</entry>
+</feed>
